@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 27, Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started my portfolio project and I started on a book object with CSS.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** Although I have quite a good experience, tinkling with CSS to build something is different always feels challenging and rewarding. Also, I struggled a bit on the design conceptualizing part for my portfolio, but I believe I will figure out on the way.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) visited**
+1.
+2. [For linking to a section on the same page in Next.js](https://stackoverflow.com/questions/68589788/nextjs-link-to-scroll-to-a-section-in-same-page/70745758#70745758)
+3. [For education category sections, I searched for inspiration on Dribbble](https://dribbble.com/search/sections)
+4. [Book Idea](https://freefrontend.com/css-book-effects/)
+5. [Book Inspiration](https://www.freepik.com/premium-psd/book-cover-mockup_12710804.htm#query=book%20cover%20mockup&position=1&from_view=keyword&track=ais)
+5. [For gradient blur in CSS](https://codepen.io/Francesco_Maretti/pen/yLPRvXp)
