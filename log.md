@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 27, Sunday
+### Day 1: February 26, Sunday
 
 **Today's Progress**: I started my portfolio project and I started on a book object with CSS.
 
@@ -15,7 +15,7 @@
 5. [For gradient blur in CSS](https://codepen.io/Francesco_Maretti/pen/yLPRvXp)
 
 
-### Day 2: February 28, Monday
+### Day 2: February 27, Monday
 
 **Today's Progress**: I learned about CSS svg stroke animation and 3D animation in CSS with rotated3D, backface-visibility. I also used the library react-spring.
 
@@ -32,3 +32,16 @@
 8. [Google Font to SVG](https://danmarshall.github.io/google-font-to-svg-path/)
 9. [Flip animation idea from](https://codepen.io/yoann-b/pen/jOLjjOP)
 10. [Turning page with CSS](https://codepen.io/amit_sheen/pen/WNweryv)
+
+
+## Day 3: February 28, Tuesday
+
+**Today's Progress**: I learned about CSS svg path animation and made a plane animation moving on a path and also console text animation
+
+**Thoughts** Relatively worked less today and with CSS animation it seems like even a small change requires quite a lot of time from me.
+
+**Link(s) visited**
+1. [SVG Path Generator](https://sean.brunnock.com/SVG/SVGPathGenerator/)
+2. [Terminal text animation](https://codepen.io/Tbgse/pen/dYaJyJ)
+3. [404 Flicker animation](https://codepen.io/pgalor/pen/OeRWJQ)
+4. [3D Book Codepen](https://codepen.io/slyka85/pen/PENyKW)
