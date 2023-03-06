@@ -71,3 +71,43 @@
 2. [Purple Ball background inspiration](https://www.sliderrevolution.com/templates/charts-addon-presentation-slider/?utm_medium=inline-ad&utm_source=css-text-animation)
 3. [HI flicker animation](https://codepen.io/mandymichael/pen/aJLYVz)
 4. [Mixamo Waving Animation](https://www.mixamo.com/#/?page=1&query=wave)
+
+## Day 5: March 2, Thursday
+
+**Today's Progress**: I worked with the Hi flicker animation
+
+**Thoughts** Worked less today as I had full day of class
+
+**Link(s) visited**
+1. [HI flicker animation](https://codepen.io/mandymichael/pen/aJLYVz)
+
+## Day 6: March 3, Friday
+
+**Today's Progress**: I did not work today
+
+**Thoughts** N/A
+
+## Day 7: March 4, Saturday
+
+**Today's Progress**: I worked with scroll in three canvas and model manipulation on scroll, I added texts inside the three canvas, Also I experimented with the useTrail Texture
+
+**Thoughts** useTrailTexture is interesting, I should use it as a background for one of the sections
+
+**Link(s) visited**
+1. [useTrailTexture inspiration](https://codesandbox.io/s/fj1qlg)
+2. [Letter by letter animation for name logo](https://codepen.io/FlorinPop17/pen/WEBNyx)
+3. [HI flicker animation](https://codepen.io/mandymichael/pen/aJLYVz)
+4. [Shooting stars background stars in webgl](https://tympanus.net/Development/AnimatedMeshLines/)
+
+## Day 8: March 5, Sunday
+
+**Today's Progress**: I worked with text scroll animation inside three canvas and added the about page , added autoscroll to sections using React Scroll
+
+**Thoughts** I am happy for my progress, I need to add a little bit of floating charms in the background in the canvas and refine the model a little bit
+
+**Link(s) visited**
+1. [Skills level inspiration](https://codepen.io/rgg/pen/QbRyOq)
+2. [Text out of view animation inspiration](https://www.sliderrevolution.com/templates/charts-addon-presentation-slider/?utm_medium=inline-ad&utm_source=css-text-animation)
+3. [Portfolio inspiration 1](https://david-hckh.com/)
+4. [Portfolio inspiration 2](https://dribbble.com/shots/18363312-Richard-Freelancer-Portfolio)
+5. [Context + useReducer](https://dougschallmoser.medium.com/context-api-usereducer-in-react-2691c137f5f)
